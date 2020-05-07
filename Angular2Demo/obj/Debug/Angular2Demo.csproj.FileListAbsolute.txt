@@ -1,4 +1,3 @@
-C:\Users\Jerald Siby\source\repos\Angular2Demo\Angular2Demo\obj\Debug\Angular2Demo.csprojAssemblyReference.cache
 C:\Users\Jerald Siby\source\repos\Angular2Demo\Angular2Demo\bin\Angular2Demo.dll.config
 C:\Users\Jerald Siby\source\repos\Angular2Demo\Angular2Demo\bin\Angular2Demo.dll
 C:\Users\Jerald Siby\source\repos\Angular2Demo\Angular2Demo\bin\Angular2Demo.pdb
